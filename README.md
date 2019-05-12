@@ -26,6 +26,7 @@ GoodReq = '' - What does the server return in case of correct authorization? (ex
 
 
 Ctrl + S
+
 Ctrl + X
 
 ```python PostBrute.py 0```
